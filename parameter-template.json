@@ -1,0 +1,13 @@
+{
+	"mock1": {
+		"description": "test mock 1 with optional as null"
+	},
+	"mock2": {
+		"description": "test mock 2 with optional as true",
+		 "optional": true
+	},
+	"mock3": {
+		"description": "test mock 3 with optional as false",
+		 "optional": false
+	}
+}
